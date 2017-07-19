@@ -1,0 +1,33 @@
+/*
+font info:
+    family - Helvetica, Arial, sans-serif
+    line-height - 1.6
+
+
+colors:
+    light gray - ##eee
+    gray - #dddddd
+    yellow - #ffd24a
+    orange - #ff8523
+    blue - #1fabe5
+    dark blue - #046c97
+*/
+body {
+  background-color: #ff8523;
+}
+h2, h3 {
+  color: #046c97;}
+ /*addition of logo position, with and margin w*/
+ . logo {
+   color: : white;
+   float: left;
+   margin: 20px;
+
+ }
+ table {
+    border-collapse: collapse;
+}
+
+nav-class, table, th, td {
+    border: 1px solid white;
+}
