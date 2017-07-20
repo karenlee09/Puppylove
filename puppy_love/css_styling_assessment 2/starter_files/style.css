@@ -1,0 +1,81 @@
+/*
+font info:
+    family - Helvetica, Arial, sans-serif
+    line-height - 1.6
+
+
+colors:
+    light gray - ##eee
+    gray - #dddddd
+    yellow - #ffd24a
+    orange - #ff8523
+    blue - #1fabe5
+    dark blue - #046c97
+*/
+
+header {
+    background-color: #ff8523;
+    width: auto;
+    border: 2px solid white;
+    padding: 25px;
+    margin: 3px;
+  }
+  style  {
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+  }
+nav {
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    margin: auto;
+    text-indent: 10px;
+}
+
+body:before {
+    top: 0;
+}
+body:after {
+    bottom: 0;
+}
+body {
+  border-top: 2px solid #ff8523;
+  border-right: 2px solid #ff8523;
+  border-bottom: 2px solid #ff8523;
+  border-left: 2px solid #ff8523;
+}
+  body {
+    margin-left: 0;
+    margin-right: 0;
+}
+body {text-align; padding-left: 15px;
+}
+h2, h3 {
+  color: #1fabe5;
+}
+  ul.a {
+     list-style-type: circle;
+ }
+
+ table {
+    border-collapse: collapse;
+    width:90%;
+    margin-left:5%;
+ }
+table, th, td {
+    border: 1px solid blue;
+     text-align; center;
+     padding: 10px;
+ }
+ thead {
+            /*...all th attributes like padding etc*/
+            background-color: #1fabe5;
+            padding: 8px;
+    }
+form {background-color: grey;
+  padding: 40px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+}
+input type name { background-color: orange;
+  height: 200px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+}
